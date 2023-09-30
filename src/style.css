@@ -1,0 +1,142 @@
+body{
+    background-color: #ede7f6;
+    font-family: Roboto, sans-serif;
+}
+.form{
+    height: 1100px;
+    width: 600px;
+    margin: auto;
+}
+.required{
+    font-size: 15px;
+    color: red;
+}
+.title-div{
+    height: 150px;
+    width: 600px;
+    background-color: #fdfefe;
+    margin: 15px;
+    border-radius: 8px;
+    border-top:8px solid#461376;
+    padding: 25px;
+}
+.name-div{
+    height: 60px;
+    width: 650px;
+    background-color: #FDFEFE ;
+    margin: 15px;
+    border-radius: 8px;
+}
+.Mobile-div{
+    height: 60px;
+    width: 650px;
+    background-color: #FDFEFE ;
+    margin: 15px;
+    border-radius: 8px;
+}
+.gender-div{
+    height: 60px;
+    width: 650px;
+    background-color: #FDFEFE ;
+    margin: 15px;
+    border-radius: 8px;
+}
+.Qualification-div{
+    height: 60px;
+    width: 650px;
+    background-color: #FDFEFE ;
+    margin: 15px;
+    border-radius: 8px;
+}
+.Mail-div{
+    height: 60px;
+    width: 650px;
+    background-color: #FDFEFE ;
+    margin: 15px;
+    border-radius: 8px;
+}
+.College-div{
+    height: 60px;
+    width: 650px;
+    background-color: #FDFEFE ;
+    margin: 15px;
+    border-radius: 8px;
+}
+.Branch-div{
+    height: 60px;
+    width: 650px;
+    background-color: #FDFEFE ;
+    margin: 15px;
+    border-radius: 8px;
+}
+.Course-div{
+    height: 60px;
+    width: 650px;
+    background-color: #FDFEFE ;
+    margin: 15px;
+    border-radius: 8px;
+}
+.learn-div{
+    height: 60px;
+    width: 650px;
+    background-color: #FDFEFE ;
+    margin: 15px;
+    border-radius: 8px;
+    font-size: small;
+}
+.name{
+    padding-top: 15px;
+    padding: 10px;
+    padding-bottom: 5px;
+    font-size: 15px;
+}
+.input-div{
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+}
+.input-div input{
+    width: 300px;
+    border: 0;
+    outline: 0;
+    border-bottom: 1.5px solid #DCD7D7;
+    font-size: 15PX;
+}
+.btn{
+    height: 36px;
+    width: 100px;
+    background-color: #6703c4;
+    font-size: 14px;
+    letter-spacing: .5px;
+    font-weight: 540;
+    border-radius: 20px;
+    padding: 10px;
+    position: absolute;
+    margin: 15px;
+    color: white;
+}
+.last-div{
+    text-align: center;
+    padding-top: 50px;
+    color: #a2a4a6;
+    font-weight: 150;
+}
+.term{
+    font-size: 13px;
+    color:grey;
+    padding-left: 50px;
+    padding-top: 0px;
+    padding-bottom: 100px;
+    position: absolute;
+    text-align: center;
+    margin-left: 100px;
+}
+.never{
+    padding-left: 30px;
+    font-size: 13px;
+    padding-top: 1px;
+    font-weight: 400;
+    text-align: left;
+    margin-left:.5px;
+    color: gray;
+}
